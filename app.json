@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c4272726-0abc-49d4-8327-29cbe0b08dfb"
+      }
+    },
+    "owner": "miko667"
   }
 }
